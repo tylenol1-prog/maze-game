@@ -1,0 +1,6 @@
+maze-game/
+├── src/
+│   ├── game.hpp          # Header file with class definitions
+│   └── game.cpp          # Implementation file
+├── CMakeLists.txt        # Build configuration
+└── README.md             # This file
