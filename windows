@@ -1,0 +1,7 @@
+# Install SDL2 (pre-built or via vcpkg)
+# Using vcpkg: vcpkg install sdl2:x64-windows
+
+mkdir build
+cd build
+cmake .. -G "Visual Studio 16 2019" -A x64
+cmake --build . --config Release
