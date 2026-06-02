@@ -1,0 +1,38 @@
+# Build directories
+build/
+cmake_build_debug/
+cmake_build_release/
+dist/
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.vcxproj.user
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+
+# Compiled output
+bin/
+lib/
+
+# Dependency files
+*.d
+
+# Backup files
+*.bak
+*.backup
