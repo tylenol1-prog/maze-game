@@ -1,5 +1,5 @@
-# THE KIL - Survive the Maze 🎮
-
+# SCP 096 - Survive Him in  the Maze 🎮
+i may have added duplicate files.
 A fast-paced survival game where you must navigate through a procedurally generated maze while evading an intelligent monster. Can you survive for 3 minutes?
 
 ## 🎯 Gameplay
