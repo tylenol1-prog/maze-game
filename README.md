@@ -1,7 +1,7 @@
 # SCP 096 - Survive Him in  the Maze 🎮
 i may have added duplicate files.
 A fast-paced survival game where you must navigate through a procedurally generated maze while evading an intelligent monster. Can you survive for 3 minutes?
-
+originally by scp company.
 ## 🎯 Gameplay
 
 - **Objective**: Survive in the maze for 180 seconds without being caught by the monster
